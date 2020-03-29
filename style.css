@@ -1,0 +1,27 @@
+a {
+    color:#2EBDD1;
+    text-decoration:none;
+}
+a:hover {
+    color:#2EBDD1;
+    text-decoration:underline;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+}
+ul li{
+    display: inline-block;
+    text-align: center;
+}
+img {
+    margin: 25px;
+}
+p {
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right:300px;
+}
