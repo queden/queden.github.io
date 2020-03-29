@@ -39,6 +39,12 @@ p {
     ul li{
         display: inline-block;
         text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 1%;
+    }
+    ul {
+        padding: 0;
     }
     img {
         height: 64px;
