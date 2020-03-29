@@ -6,6 +6,9 @@ a:hover {
     color:#2EBDD1;
     text-decoration:underline;
 }
+span {
+    color: #2EBDD1;
+}
 body {
     font-family: 'Poppins', sans-serif;
     text-align: center;
