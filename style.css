@@ -13,22 +13,28 @@ body {
 h1 {
     font-weight: bold;
 }
-@media only screen and (min-width: 600px) {
-    ul li{
-        display: inline-block;
-        text-align: center;
-    }
-}
 ul {
     display: inline;
 }
 img {
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    display: block;
+    width: 32px;
+    height: 32px;
 }
 p {
     margin-top: 50px;
     margin-left: 25%;
     margin-right:25%;
+}
+@media only screen and (min-width: 600px) {
+    ul li{
+        display: inline-block;
+        text-align: center;
+    }
+    img {
+        height: 64px;
+        width: 50%;
+    }
 }
