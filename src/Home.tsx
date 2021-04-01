@@ -20,7 +20,7 @@ const HomePage = (props : Props) => {
         </p>
         <p>
           I'm fascinated by cities and their future, economic development, 
-          affordable housing for all, spirituality, fintech and blockchain. I do not know much about all of these things, and would love to learn from you if you do.
+          affordable housing for all, spirituality, fintech and blockchain. I do not know much about any of these things, and would love to learn from you if you do.
         </p>
         <p>
           One of my favorite things is meeting new people, and I'd love to meet you! 
