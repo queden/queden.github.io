@@ -5,6 +5,7 @@ type Props = {
   theme: String, 
 }
 
+// Hello
 const HomePage = (props : Props) => {
   return (
     <div className="home">

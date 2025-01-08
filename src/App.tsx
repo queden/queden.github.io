@@ -2,6 +2,7 @@ import React from 'react';
 import HomePage from './Home';
 import './App.scss';
 
+// Hello
 const App = () => {
   
   let theme : String = "theme" + Math.floor(Math.random() * 5);
