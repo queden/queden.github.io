@@ -21,7 +21,7 @@ const HomePage = (props : Props) => {
           I am interested in energy security and abundance, global development, urbanism, volcanoes, pluralism, where we come from, and figuring out where we go from here.
         </p>
         <p>
-          Get in touch via <a href="mailto:cadenmfelton@gmail.com" target="_blank">cadenmfelton@gmail.com</a>, <a href="https://linkedin.com/in/cadenfelton" target="_blank">LinkedIn</a>, or <a href="https://github.com/queden" target="_blank">GitHub</a>.
+          You can find me via <a href="mailto:cadenmfelton@gmail.com" target="_blank">cadenmfelton@gmail.com</a>, <a href="https://linkedin.com/in/cadenfelton" target="_blank">LinkedIn</a>, or <a href="https://github.com/queden" target="_blank">GitHub</a>.
         </p>
       </div>
     </div>
