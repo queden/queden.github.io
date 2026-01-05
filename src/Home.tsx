@@ -14,11 +14,11 @@ const HomePage = (props : Props) => {
           Hi, I'm <span>Caden</span>.
         </h1>
         <p>
-          I'm a software engineer at <a href="https://checkhq.com" target="_blank">Check</a>, where I build tax infrastructure and help platforms use it. In the past, I built software at big tech and a few startups, including
-          one I tried to start with a few friends.
+          I'm a software engineer and R&D lead at <a href="https://checkhq.com" target="_blank">Check</a>. In the past, I built software at big tech and a few startups, including
+          one I started with a few friends.
         </p>
         <p>
-          I am interested in energy security and abundance, resource governance, global development, urbanism, pluralism, how we got here, and figuring out where we go from here.
+          I am personally interested in where new applications of geophysics can build more robust, sovereign societies.
         </p>
         <p>
           You can find me via <a href="mailto:cadenmfelton@gmail.com" target="_blank">cadenmfelton@gmail.com</a>, <a href="https://linkedin.com/in/cadenfelton" target="_blank">LinkedIn</a>, or <a href="https://github.com/queden" target="_blank">GitHub</a>.
